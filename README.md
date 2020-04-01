@@ -4,6 +4,7 @@ An implementation of **printf** function from the **C** standard library.
 
 To implement the display of floating-point numbers with maximum precision, arbitrary-precision arithmetic was used.
 
+Team project with [ApishevAskhad](https://github.com/ApishevAskhad)
 ## Supported Features
 Types:
 
